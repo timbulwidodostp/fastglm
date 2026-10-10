@@ -1,6 +1,8 @@
 # fastglm
 Fast generalized linear model fitting Use fastglm With (In) R Software
 
+https://www.youtube.com/watch?v=NGu6IWt7YrA
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
